@@ -40,3 +40,6 @@
 
 </div>
 
+##
+
+![Snake animation](https://github.com/ricardobarboza1090-max/ricardobarboza1090-max/blob/output/github-contribution-grid-snake.svg)
